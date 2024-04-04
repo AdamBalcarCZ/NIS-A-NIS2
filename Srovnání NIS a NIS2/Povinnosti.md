@@ -1,0 +1,4 @@
+|      |                                                                                                                                                                                                                      |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NIS  | Posouzení a řízení kybernetických rizik, Opatření k ochraně proti kybernetickým útokům, Notifikace incidentů kybernetické bezpečnosti                                                                                |
+| NIS2 | Posílení výše uvedených povinností, Plány reakce na kybernetické incidenty, Testování odolnosti proti kybernetickým útokům, Povinnost používat nástroje pro správu identit a přístupů (IAM), Povinnost šifrovat data |
